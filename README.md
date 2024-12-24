@@ -23,7 +23,7 @@
 1. **Clone atau Unduh Proyek Ini**  
    Clone repositori ini dengan perintah:
    ```bash
-   git clone https://github.com/giriastra/hitung-nilai-skd-skb.git
+   git clone https://github.com/arjalika/hitung-nilai-skd-skb.git
 
 
 
